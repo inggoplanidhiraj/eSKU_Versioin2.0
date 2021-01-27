@@ -1,0 +1,12 @@
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.UtilityHelper\bin\Debug\net5.0\APAC.eSKU.Common.UtilityHelper.deps.json
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.UtilityHelper\bin\Debug\net5.0\APAC.eSKU.Common.UtilityHelper.dll
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.UtilityHelper\bin\Debug\net5.0\ref\APAC.eSKU.Common.UtilityHelper.dll
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.UtilityHelper\bin\Debug\net5.0\APAC.eSKU.Common.UtilityHelper.pdb
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.UtilityHelper\obj\Debug\net5.0\APAC.eSKU.Common.UtilityHelper.csprojAssemblyReference.cache
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.UtilityHelper\obj\Debug\net5.0\APAC.eSKU.Common.UtilityHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.UtilityHelper\obj\Debug\net5.0\APAC.eSKU.Common.UtilityHelper.AssemblyInfoInputs.cache
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.UtilityHelper\obj\Debug\net5.0\APAC.eSKU.Common.UtilityHelper.AssemblyInfo.cs
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.UtilityHelper\obj\Debug\net5.0\APAC.eSKU.Common.UtilityHelper.csproj.CoreCompileInputs.cache
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.UtilityHelper\obj\Debug\net5.0\APAC.eSKU.Common.UtilityHelper.dll
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.UtilityHelper\obj\Debug\net5.0\ref\APAC.eSKU.Common.UtilityHelper.dll
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.UtilityHelper\obj\Debug\net5.0\APAC.eSKU.Common.UtilityHelper.pdb

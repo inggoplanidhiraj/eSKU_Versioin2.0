@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "APAC.eSKU.Common.DTO/1.0.0": {
+        "runtime": {
+          "APAC.eSKU.Common.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APAC.eSKU.Common.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

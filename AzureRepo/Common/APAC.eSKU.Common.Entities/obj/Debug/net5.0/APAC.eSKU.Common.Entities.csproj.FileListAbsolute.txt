@@ -1,0 +1,12 @@
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.Entities\bin\Debug\net5.0\APAC.eSKU.Common.Entities.deps.json
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.Entities\bin\Debug\net5.0\APAC.eSKU.Common.Entities.dll
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.Entities\bin\Debug\net5.0\ref\APAC.eSKU.Common.Entities.dll
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.Entities\bin\Debug\net5.0\APAC.eSKU.Common.Entities.pdb
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.Entities\obj\Debug\net5.0\APAC.eSKU.Common.Entities.csprojAssemblyReference.cache
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.Entities\obj\Debug\net5.0\APAC.eSKU.Common.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.Entities\obj\Debug\net5.0\APAC.eSKU.Common.Entities.AssemblyInfoInputs.cache
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.Entities\obj\Debug\net5.0\APAC.eSKU.Common.Entities.AssemblyInfo.cs
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.Entities\obj\Debug\net5.0\APAC.eSKU.Common.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.Entities\obj\Debug\net5.0\APAC.eSKU.Common.Entities.dll
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.Entities\obj\Debug\net5.0\ref\APAC.eSKU.Common.Entities.dll
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.Entities\obj\Debug\net5.0\APAC.eSKU.Common.Entities.pdb

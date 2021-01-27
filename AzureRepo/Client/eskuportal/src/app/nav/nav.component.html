@@ -1,0 +1,44 @@
+
+<nav class="navbar navbar-expand-lg navbar-dark " *ngIf="(accountservice.currentUser$ | async)">
+
+  <a class="navbar-brand" routerLink='/' routerLinkActive='active'>
+      <img src="assets/img/Ingram1.png" width="150" />
+  </a>
+
+  <div class="collapse navbar-collapse" >
+
+      <ul class="navbar-nav mr-auto mt-2">
+
+          <li class="nav-item">
+              <a class="nav-link" routerLink='/request' routerLinkActive='active'>SKU Approval</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link"  routerLink='/create' routerLinkActive='active'>Bulk Upload</a>
+          </li>
+          <!-- <li class="nav-item">
+              <a class="nav-link"  routerLink='fileReadLog' routerLinkActive='active'>Global Data</a>
+          </li> -->
+          <li class="nav-item">
+              <a class="nav-link"  routerLink='/thresholdLimit' routerLinkActive='active'>User Administration</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link"  routerLink='/materialMaster' routerLinkActive='active'>Vendor Management</a>
+          </li>
+        </ul>
+          <ul class="navbar-nav mr-auto">
+          <li class="nav-item"  >
+           <span class = "nav-link">  Welcome {{windowsid}}
+            <select class="text-center text-body"  [(ngModel)]="userID" (change)="GetCountrySpecificUser()">
+
+              <option value="0" disabled>Select Country</option>
+              <option *ngFor="let user of users"  [ngValue] ="user.usersID" [selected]="user.usersID== userID" >{{user.country.countryCode}}</option>
+              <!-- <option *ngFor="let user of users"  [ngValue] ="user.country.countryCode" [selected]="user.country.countryCode == countrySpecificUser.country.countryCode" >{{user.country.countryCode}}</option> -->
+            </select>
+          </span>
+        </li>
+
+      </ul>
+
+  </div>
+</nav>
+<h1 class="navbar navbar-expand-lg navbar-dark " *ngIf="!(accountservice.currentUser$ | async)">Please Contact your Country ADMIN to register with portal</h1>

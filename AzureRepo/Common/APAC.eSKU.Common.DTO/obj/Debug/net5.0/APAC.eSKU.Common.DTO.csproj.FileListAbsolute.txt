@@ -1,0 +1,12 @@
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.DTO\bin\Debug\net5.0\APAC.eSKU.Common.DTO.deps.json
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.DTO\bin\Debug\net5.0\APAC.eSKU.Common.DTO.dll
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.DTO\bin\Debug\net5.0\ref\APAC.eSKU.Common.DTO.dll
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.DTO\bin\Debug\net5.0\APAC.eSKU.Common.DTO.pdb
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.DTO\obj\Debug\net5.0\APAC.eSKU.Common.DTO.csprojAssemblyReference.cache
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.DTO\obj\Debug\net5.0\APAC.eSKU.Common.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.DTO\obj\Debug\net5.0\APAC.eSKU.Common.DTO.AssemblyInfoInputs.cache
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.DTO\obj\Debug\net5.0\APAC.eSKU.Common.DTO.AssemblyInfo.cs
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.DTO\obj\Debug\net5.0\APAC.eSKU.Common.DTO.csproj.CoreCompileInputs.cache
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.DTO\obj\Debug\net5.0\APAC.eSKU.Common.DTO.dll
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.DTO\obj\Debug\net5.0\ref\APAC.eSKU.Common.DTO.dll
+D:\Projects\eSKU\AzureRepo\Common\APAC.eSKU.Common.DTO\obj\Debug\net5.0\APAC.eSKU.Common.DTO.pdb
